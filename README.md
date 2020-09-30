@@ -4,9 +4,11 @@ Just a bunch files to store/restore my coding setup.
 
 ## Fish Prompt
 
-Modified the "Informative Vcs" fish prompt just a bit but mainlytweaked the vcs info string to display icons and numbers the way I want.
+Modified the "Informative Vcs" fish prompt just a bit, but mainly tweaked the vcs info string to display icons and numbers the way I want on the prompt.
 
 ### Installation
+
+[assumes [fish shell](https://fishshell.com/)]
 
 1. Place both files on `~/.config/fish/functions`.
 1. If you already have a `fish_prompt.fish`, replace that with this.
