@@ -11,6 +11,10 @@ Modified the "Informative Vcs" fish prompt just a bit but mainlytweaked the vcs 
 1. Place both files on `~/.config/fish/functions`.
 1. If you already have a `fish_prompt.fish`, replace that with this.
 
+### WakaTime for Fish Terminal
+
+I customized the [WakaTime](https://wakatime.com/dashboard) "plug-in" for Fish Shell so that if the project is a git repo, it will use the repo as the project identifier, not the folder name. Check [here](https://github.com/tehdarthvid/log-wakatime-fish) if you're interested.
+
 ## Fonts
 
 A modified [`Fira Code iScript`](https://github.com/kencrocken/FiraCodeiScript).
